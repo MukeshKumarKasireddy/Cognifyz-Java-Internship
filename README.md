@@ -3,7 +3,7 @@
 This repository contains the Java console applications I built during my internship at Cognifyz Technologies (March–April 2025).
 
 ## Tasks
-- Task 1: Number Guessing Game
+- Task 1: Quiz Game
 - Task 2: Sand Glass Number Pattern
 - Task 3: Task Manager (CRUD)
 - Task 4: Temperature Converter
